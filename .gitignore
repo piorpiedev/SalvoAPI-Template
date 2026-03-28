@@ -1,0 +1,8 @@
+/target
+/certs
+/logs
+/data
+
+.env
+config.toml
+Cargo.lock
